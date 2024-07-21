@@ -1,0 +1,6 @@
+Flask
+moviepy
+SpeechRecognition
+requests
+markdown
+gunicorn
